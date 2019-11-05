@@ -27,7 +27,14 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
     
-    
+    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
+        if segue.identifier == "ShowCounterSegue"
+        {
+            if let destinationVC = segue.destination as? User2TableViewController {
+                destinationVC.numberToDisplay = counter
+            }
+        }
+    }
 
 }
 
