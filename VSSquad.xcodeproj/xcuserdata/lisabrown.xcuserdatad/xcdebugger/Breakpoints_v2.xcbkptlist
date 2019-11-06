@@ -18,6 +18,53 @@
             endingLineNumber = "14"
             landmarkName = "volunteer2TableViewController"
             landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "35A84575-FDD4-4461-BCDE-F202DF3FF0D7 - f96cbb7e30a26a10"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VSSquad.volunteer2TableViewController.init(style: __C.UITableViewStyle) -&gt; VSSquad.volunteer2TableViewController"
+                  moduleName = "VSSquad"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lisabrown/Desktop/11.4.19/VSquad/VSSquad/RegisteredUsers/User2TableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "45">
+               </Location>
+               <Location
+                  uuid = "35A84575-FDD4-4461-BCDE-F202DF3FF0D7 - 47d282a0721233ee"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VSSquad.volunteer2TableViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; VSSquad.volunteer2TableViewController"
+                  moduleName = "VSSquad"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lisabrown/Desktop/11.4.19/VSquad/VSSquad/RegisteredUsers/User2TableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "142">
+               </Location>
+               <Location
+                  uuid = "35A84575-FDD4-4461-BCDE-F202DF3FF0D7 - 9a94c1a75d718500"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VSSquad.volunteer2TableViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;VSSquad.volunteer2TableViewController&gt;"
+                  moduleName = "VSSquad"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lisabrown/Desktop/11.4.19/VSquad/VSSquad/RegisteredUsers/User2TableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "96">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>

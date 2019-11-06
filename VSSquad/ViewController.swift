@@ -19,19 +19,18 @@ class ViewController: UIViewController {
     //MARK: Action
     
    @IBAction func Login(_ sender: UIButton) {
-   }
-//    @IBAction func GoToUserDisplay(_ sender: UIButton) {
-//    }
+  }
+   
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     }
     
     override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
-        if segue.identifier == "ShowCounterSegue"
+        if segue.identifier == "ShowUserSegue"
         {
-            if let destinationVC = segue.destination as? User2TableViewController {
-                destinationVC.numberToDisplay = counter
+            if segue.destination is volunteer2TableViewController {
+    
             }
         }
     }
